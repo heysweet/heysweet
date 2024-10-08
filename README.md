@@ -1,6 +1,6 @@
 ## Hi, I'm Andrew Sweet 👋
 
-I am a passionate product-focused software engineer that loves to solve hard technical
+I am a passionate product engineer that loves to solve hard technical
 problems while focusing on delivering polished, delightful user experiences.
 
 Having studied Computer Science and Art at Carnegie Mellon University, I most enjoy
