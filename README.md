@@ -6,7 +6,7 @@ problems while focusing on delivering polished, delightful user experiences.
 Having studied Computer Science and Art at Carnegie Mellon University, I most enjoy
 working in collaborative interdisciplinary settings -- I love wearing many hats,
 collaborating with Product and Design, rapid prototyping, engaging with users, a
-ultimately shipping measurable value. I've worked at companies like dbt Labs, Google,
+ultimately shipping measurable value. I've worked at companies like Warp, dbt Labs, Google,
 Nike, Iontank, and more.
 
 For more info, check out [andrewmsweet.com](https://andrewmsweet.com/).
